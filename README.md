@@ -1,7 +1,7 @@
 # Struts2-048
 CVE-2017-9791
 
-Author: DragonEgg
+Author: DragonEgg... Re-written in python3 and use requests instead of urllib
 ```python
 def Usage():
     print 'check:'
